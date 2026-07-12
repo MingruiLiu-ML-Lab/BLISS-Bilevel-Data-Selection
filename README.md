@@ -1,4 +1,4 @@
-This is code for ICML 2026 paper "BLISS: A Lightweight Bilevel Influence Scoring Method for Data Selection in Language Model Pretraining". The training/validation data processing, model pretraining, and evaluation are built based on [MATES](https://github.com/cxcscmu/MATES).  
+This is code for ICML 2026 [paper](https://arxiv.org/pdf/2510.06048) "BLISS: A Lightweight Bilevel Influence Scoring Method for Data Selection in Language Model Pretraining". The training/validation data processing, model pretraining, and evaluation are built based on [MATES](https://github.com/cxcscmu/MATES).  
 
 ## 1 Environment
 
